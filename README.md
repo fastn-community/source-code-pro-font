@@ -1,4 +1,4 @@
-Source-Code-Pro: fastn Font Package
+Source Code Pro: fastn Font Package
 
 This repository contains a [fastn font package](https://fpm.dev/featured/fonts/) containing [Google Font: 
 Source-Code-Pro](https://fonts.google.com/specimen/Source+Code+Pro/about).
@@ -24,5 +24,5 @@ server](https://discord.gg/bucrdvptYd).
 
 ## License
 
-Since Arya Font is under [Open Font Licence](https://fonts.google.com/specimen/Source+Code+Pro/about), this fastn wrapper is also
+Since Source Code Pro is under [Open Font Licence](https://fonts.google.com/specimen/Source+Code+Pro/about), this fastn wrapper is also
 under [Open Font License](LICENSE).
