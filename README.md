@@ -1,7 +1,7 @@
- Source-Code-Pro: fastn Font Package
+Source-Code-Pro: fastn Font Package
 
 This repository contains a [fastn font package](https://fpm.dev/featured/fonts/) containing [Google Font: 
-Arya](https://fonts.google.com/specimen/Source+Code+Pro/about).
+Source-Code-Pro](https://fonts.google.com/specimen/Source+Code+Pro/about).
 
 Source Code was designed by Paul D. Hunt as 
 a companion to Source Sans.This complementary 
